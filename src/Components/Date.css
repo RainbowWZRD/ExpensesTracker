@@ -1,0 +1,13 @@
+
+.date_container {
+    background: #343536;
+    padding: .5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    align-items: center;
+    font-family: Poppins;
+    color: #f2f2f2;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.7);
+}
+
